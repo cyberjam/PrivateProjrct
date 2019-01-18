@@ -21,3 +21,13 @@ OS : windows
   > python -m SimpleHTTPServer YourPortNumber
 
 https://developer.mozilla.org/ko/docs/Learn/Common_questions/set_up_a_local_testing_server
+
+
+-GS25
+http://gs25.gsretail.com/gscvs/ko/store-services/locations#;
+
+
+TODO
+py -> html 
+
+Django?
