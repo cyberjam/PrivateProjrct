@@ -4,7 +4,8 @@ ATMFinder
 
 
 지도 마커 출력
-#http://apis.map.daum.net/web/guide/
+http://apis.map.daum.net/web/guide/
+
 Python 
 
 Web Server Tester
@@ -19,4 +20,4 @@ OS : windows
 
   > python -m SimpleHTTPServer YourPortNumber
 
-#https://developer.mozilla.org/ko/docs/Learn/Common_questions/set_up_a_local_testing_server
+https://developer.mozilla.org/ko/docs/Learn/Common_questions/set_up_a_local_testing_server
