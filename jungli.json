@@ -1,0 +1,79 @@
+{
+  "results": [
+    {
+      "offeringService": [
+        "cafe25",
+        "drug",
+        "post",
+        "withdrawal",
+        "smart_atm"
+      ],
+      "shopCode": "VT767",
+      "longs": "36.36017321",
+      "address": "대전 대덕구 한밭대로1149번길24 (중리동 206-14)",
+      "shopName": "GS25뉴중리사랑점",
+      "lat": "127.42638789"
+    },
+    {
+      "offeringService": [
+        "toto",
+        "cafe25",
+        "drug",
+        "post",
+        "withdrawal"
+      ],
+      "shopCode": "V2959",
+      "longs": "36.36084297",
+      "address": "대전 대덕구 중리로19(중리동 401-4)",
+      "shopName": "GS25대전중리점",
+      "lat": "127.42510156"
+    },
+    {
+      "offeringService": [
+        "lotto",
+        "cafe25",
+        "drug",
+        "post",
+        "withdrawal"
+      ],
+      "shopCode": "VJ224",
+      "longs": "36.35959279",
+      "address": "대전 대덕구 중리로7번길27(중리동 408-7)",
+      "shopName": "GS25대전한밭점",
+      "lat": "127.4237625"
+    },
+    {
+      "offeringService": [
+        "cafe25",
+        "drug",
+        "post",
+        "withdrawal"
+      ],
+      "shopCode": "VH634",
+      "longs": "36.36310896",
+      "address": "대전 대덕구 중리서로50(중리동 381-28)",
+      "shopName": "GS25중리희망점",
+      "lat": "127.4221654"
+    },
+    {
+      "offeringService": [
+        "cafe25",
+        "drug",
+        "post",
+        "withdrawal",
+        "self_cook"
+      ],
+      "shopCode": "VO627",
+      "longs": "36.35771616",
+      "address": "대전 대덕구 홍도로129번길68, 외2필지 (중리동 232-15)",
+      "shopName": "GS25한남대북문점",
+      "lat": "127.42334178"
+    }
+  ],
+  "pagination": {
+    "totalNumberOfResults": 5,
+    "numberOfPages": 1,
+    "pageSize": 5,
+    "currentPage": 0
+  }
+}
